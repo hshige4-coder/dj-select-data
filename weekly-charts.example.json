@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "week": "YYYY-MM-DD",
+  "updatedAt": "YYYY-MM-DDTHH:mm:ss+09:00",
+  "weeklyTalk": "今週のDJ SELECTについての短いコメント",
+  "djSelect20": [
+    {
+      "rank": 1,
+      "title": "Track Title",
+      "artist": "Artist Name",
+      "comment": "DJ向けの短い解説",
+      "status": "NEW",
+      "appleMusicUrl": "https://music.apple.com/jp/album/example/000000000?i=000000000",
+      "jacketFrom": "",
+      "jacketTo": ""
+    }
+  ],
+  "genres": {
+    "dance": [],
+    "hiphop": [],
+    "rnb": [],
+    "house": [],
+    "reggae": [],
+    "pop": []
+  }
+}
