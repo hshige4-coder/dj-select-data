@@ -1,34 +1,34 @@
 {
-  "week": "2026-10-15",
-  "updatedAt": "2026-10-16",
-  "weeklyTalk": "今週は**ラップの新登場曲と、Danceの上昇曲**に注目。UK Hip Hop/R&B（10/9〜10/15）ではDrake & Don Toliver「Solar Eclipse」が初登場3位。「Quebec」は4位、「Cold Shoulder」は8位、Morrisson「COS OF YOU」は10位に初登場しました。新曲を試すなら、この4曲から。\n\nDanceではKolter「Hey Everybody」が9位→6位、UK総合でも49位→29位へ上昇。「Good Girl」もDanceで5位→4位へ。HOUSEは10/9発売の**GENESI, Djammin & Flowdan「Red Button」**を追加し、ラップとクラブサウンドの接点を増やしました。Sonny Kane「Never Leave U」、Franky Rizardo「Shinjuku」も今週のチェック候補です。\n\n歌ものはLeon Bridges「Watch You Dance」を継続推薦。Olivia Deanを挟みながら、踊る時間と歌を聴かせる時間を作る選曲を提案します。定番ではMichael Jackson「Thriller」がUK Hip Hop/R&Bで41位→17位。10月後半のセットを考えるきっかけにも。\n\nDancehall（10/9〜10/15）は**Shaneil Muir「Man Fi Be Man」が首位へ**。「16」が2位、「Like How Yuh Feel」が3位。「How Often」「No Days Off」がトップ10入りし、DJ SELECT 20には初登場22位のValiant「Time Capsule」も追加しました。\n\nPOPではJamie Miller「Babydoll」が6位→3位、Ashe「Stop The Wedding!」が10位→4位へ上昇。新顔だけでなく、先週から伸びている曲を拾う週です。\n\n10月15日週版・10月16日更新。UK／Jamaicaの順位は10/9〜10/15付を参照。掲載順はDJ SELECT独自の選曲順で、HOUSEは新作と継続推薦を組み合わせています。NEWは前週版にない新規採用曲（再採用を含む）です。Apple Musicは日本ストアの配信版を照合。Extendedや編集版は曲名で区別しています。",
+  "week": "2026-10-22",
+  "updatedAt": "2026-10-24",
+  "weeklyTalk": "今週は**新登場曲と、もう一度フロアに戻したい曲**を一緒にチェック。Chromeo「Fancy Footwork」がUK Danceで21位→8位へ。2007年の曲ですが、今週のDJ SELECT 20では先頭に置きました。新作だけでなく、今あらためて使いたくなる曲も拾う週です。\n\nHIP HOP／R&BはMorrisson「COS OF YOU」が10位→6位、Season 25「Shotta's.」が初登場8位。SIENNA SPIRO「Material Lover」は首位へ。Mark Ronson feat. Amy Winehouse「Valerie」やMichael Jackson「Thriller」も上昇しており、現行曲と定番を交ぜるきっかけになりそうです。\n\nDANCEにはChase & Status「Carnage (feat. Little Simz)」を追加。チャート初登場と発売日は別で、Apple Musicでは8月の配信曲です。HOUSEは「World Hold On」のFISHER Reworkを加え、Red Button、Good Girlなどと組み合わせる独自推薦に。Shinjukuは今回、通常配信版を選びました。\n\nDancehallは**Honor Rollが3位へ上昇**。「Man Fi Be Man」は首位を維持。「Back 2 Basics」がトップ10入りし、DJ SELECT 20にはMasicka「Shakazulu」も追加しました。Valiant「Time Capsule」も継続して追います。\n\nPOPはJamie Miller「Babydoll」、Ashe「Stop The Wedding!」、ADÉLA「Nicole Kidman」の動きに注目。「Rein Me In」も追加し、Olivia Deanの歌につなげる流れを提案します。\n\n10月22日週版・10月24日更新。参照チャートはUK／Jamaicaとも10/16〜10/22付。掲載順はDJ SELECT独自の選曲順で、ジャンル別の公式順位そのものではありません。NEWは各枠での新規採用・再採用を示し、新発売の意味ではありません。全採用曲をApple Music日本ストアで照合し、曲名に配信版を明記。HOUSEの未確認のBeatport順位は掲載していません。",
   "genres": {
     "dance": [
       {
         "rank": 1,
         "title": "Movin' To The Sun",
         "artist": "HUGEL, Imael Angel & Ultra Naté",
-        "comment": "UK Dance 1位を維持。ボーカルを軸にフロアをまとめる候補。",
+        "comment": "UK Dance首位を維持。歌を軸に始めるダンス枠。",
         "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/movin-to-the-sun/6769069923?i=6769070199&l=en-US",
-        "jacketFrom": "#3b82f6",
-        "jacketTo": "#8b5cf6"
+        "jacketFrom": "#8b5cf6",
+        "jacketTo": "#3b82f6"
       },
       {
         "rank": 2,
         "title": "Free Your Mind",
         "artist": "Prospa, Cloonee & Sybil",
-        "comment": "UK Dance 2位。HOUSEへつなぐ共通の軸。",
+        "comment": "UK Dance 2位。HOUSEとの共通軸に。",
         "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/free-your-mind/1884097801?i=1884097804&l=en-US",
-        "jacketFrom": "#ec4899",
-        "jacketTo": "#f97316"
+        "jacketFrom": "#8b5cf6",
+        "jacketTo": "#ec4899"
       },
       {
         "rank": 3,
         "title": "Talk To You (feat. 54 Ultra)",
         "artist": "ANOTR",
-        "comment": "UK Dance 4位→3位。54 Ultraの歌を生かす場面に。",
+        "comment": "UK Dance 3位。54 Ultra参加のボーカル曲。",
         "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&l=en-US",
         "jacketFrom": "#06b6d4",
@@ -38,17 +38,17 @@
         "rank": 4,
         "title": "Good Girl",
         "artist": "Cloonee, Prospa & Tristan Henry",
-        "comment": "UK Dance 5位→4位、総合30位→25位。今週の注目。",
-        "status": "急上昇",
+        "comment": "UK Dance 4位を維持。今週も中核の候補に。",
+        "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/good-girl/6785909845?i=6785909848&l=en-US",
-        "jacketFrom": "#10b981",
+        "jacketFrom": "#f97316",
         "jacketTo": "#06b6d4"
       },
       {
         "rank": 5,
         "title": "On 2nite",
         "artist": "Silva Bumpa",
-        "comment": "UK Dance 5位。UKサウンドを挟む選曲枠。",
+        "comment": "UK Dance 5位。UKサウンドを挟む枠。",
         "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/on-2nite/6772312874?i=6772312877&l=en-US",
         "jacketFrom": "#8b5cf6",
@@ -58,37 +58,37 @@
         "rank": 6,
         "title": "Hey Everybody",
         "artist": "Kolter",
-        "comment": "UK Dance 9位→6位。総合でも49位→29位へ上昇。",
-        "status": "急上昇",
-        "appleMusicUrl": "https://music.apple.com/jp/album/hey-everybody/6784787844?i=6784787846&l=en-US",
-        "jacketFrom": "#f97316",
-        "jacketTo": "#ec4899"
-      },
-      {
-        "rank": 7,
-        "title": "Dancing On My Own",
-        "artist": "Robyn",
-        "comment": "UK Dance 7位。歌える定番として継続。",
+        "comment": "UK Dance 6位を維持。先週から継続チェック。",
         "status": "SELECT",
-        "appleMusicUrl": "https://music.apple.com/jp/album/dancing-on-my-own/1444873630?i=1444873822&l=en-US",
+        "appleMusicUrl": "https://music.apple.com/jp/album/hey-everybody/6784787844?i=6784787846&l=en-US",
         "jacketFrom": "#f59e0b",
         "jacketTo": "#3b82f6"
       },
       {
+        "rank": 7,
+        "title": "Fancy Footwork",
+        "artist": "Chromeo",
+        "appleMusicUrl": "https://music.apple.com/jp/album/fancy-footwork/1471576717?i=1471577047&l=en-US",
+        "status": "NEW",
+        "jacketFrom": "#3b82f6",
+        "jacketTo": "#ec4899",
+        "comment": "UK Dance 21位→8位。2007年の曲を今週あらためて。"
+      },
+      {
         "rank": 8,
-        "title": "Jamaican (Bam Bam) [Extended Mix]",
-        "artist": "HUGEL & SOLTO (FR)",
-        "comment": "UK Dance 8位。リンクはExtended Mix。",
-        "status": "SELECT",
-        "appleMusicUrl": "https://music.apple.com/jp/album/jamaican-bam-bam-extended-mix/1883679767?i=1883679770&l=en-US",
-        "jacketFrom": "#f97316",
-        "jacketTo": "#06b6d4"
+        "title": "Carnage (feat. Little Simz)",
+        "artist": "Chase & Status",
+        "appleMusicUrl": "https://music.apple.com/jp/album/carnage-feat-little-simz/6802692234?i=6802692241&l=en-US",
+        "status": "NEW",
+        "jacketFrom": "#3b82f6",
+        "jacketTo": "#ec4899",
+        "comment": "UK Dance初登場13位。Little Simz参加曲を追加。"
       },
       {
         "rank": 9,
         "title": "No Broke Boys",
         "artist": "Disco Lines & Tinashe",
-        "comment": "UK Dance 10位→9位。R&Bからダンスへ展開する候補。",
+        "comment": "UK Dance 9位。R&Bからダンスへの接点に。",
         "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/no-broke-boys/1818761033?i=1818761158&l=en-US",
         "jacketFrom": "#8b5cf6",
@@ -96,193 +96,193 @@
       },
       {
         "rank": 10,
-        "title": "Blessings",
-        "artist": "Calvin Harris & Clementine Douglas",
-        "comment": "UK Dance 10位。ボーカルを聴かせる展開に。",
+        "title": "Jamaican (Bam Bam) [Extended Mix]",
+        "artist": "HUGEL & SOLTO (FR)",
+        "comment": "UK Dance 10位。配信リンクはExtended Mix。",
         "status": "SELECT",
-        "appleMusicUrl": "https://music.apple.com/jp/album/blessings/1811333156?i=1811333176&l=en-US",
-        "jacketFrom": "#ec4899",
-        "jacketTo": "#8b5cf6"
+        "appleMusicUrl": "https://music.apple.com/jp/album/jamaican-bam-bam-extended-mix/1883679767?i=1883679770&l=en-US",
+        "jacketFrom": "#f97316",
+        "jacketTo": "#06b6d4"
       }
     ],
     "hiphop": [
       {
         "rank": 1,
-        "title": "Solar Eclipse",
-        "artist": "Drake & Don Toliver",
-        "comment": "UK Hip Hop/R&B初登場3位。Don Toliverとの共演。",
-        "status": "NEW",
-        "appleMusicUrl": "https://music.apple.com/jp/album/solar-eclipse/6818209777?i=6818209989&l=en-US",
-        "jacketFrom": "#3b82f6",
-        "jacketTo": "#8b5cf6"
-      },
-      {
-        "rank": 2,
-        "title": "Quebec",
-        "artist": "Drake",
-        "comment": "UK Hip Hop/R&B初登場4位。Drakeの今週の追加曲。",
-        "status": "NEW",
-        "appleMusicUrl": "https://music.apple.com/jp/album/quebec/6818209777?i=6818209990&l=en-US",
+        "title": "COS OF YOU",
+        "artist": "Morrisson",
+        "comment": "UK Hip Hop/R&B 10位→6位。今週のラップ筆頭候補。",
+        "status": "急上昇",
+        "appleMusicUrl": "https://music.apple.com/jp/album/cos-of-you/6817308928?i=6817308933&l=en-US",
         "jacketFrom": "#ec4899",
         "jacketTo": "#f97316"
       },
       {
-        "rank": 3,
-        "title": "COS OF YOU",
-        "artist": "Morrisson",
-        "comment": "UK Hip Hop/R&B初登場10位。UKラップの新規枠。",
+        "rank": 2,
+        "title": "Shotta's.",
+        "artist": "Season 25",
+        "appleMusicUrl": "https://music.apple.com/jp/album/shottas/6815156539?i=6815156545&l=en-US",
         "status": "NEW",
-        "appleMusicUrl": "https://music.apple.com/jp/album/cos-of-you/6817308928?i=6817308933&l=en-US",
-        "jacketFrom": "#06b6d4",
-        "jacketTo": "#3b82f6"
+        "jacketFrom": "#3b82f6",
+        "jacketTo": "#ec4899",
+        "comment": "UK Hip Hop/R&B初登場8位。Season 25を新規採用。"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Raindance",
         "artist": "Dave & Tems",
-        "comment": "UK Hip Hop/R&B首位を維持。Temsの歌を生かす展開に。",
+        "comment": "UK Hip Hop/R&B 2位。Temsとの共演を継続。",
         "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/raindance/1847992481?i=1847992612&l=en-US",
         "jacketFrom": "#10b981",
         "jacketTo": "#06b6d4"
       },
       {
-        "rank": 5,
-        "title": "Cold Shoulder",
-        "artist": "Drake, Don Toliver & Yebba",
-        "comment": "UK Hip Hop/R&B初登場8位。Yebbaも参加する歌もの寄りの枠。",
-        "status": "NEW",
-        "appleMusicUrl": "https://music.apple.com/jp/album/cold-shoulder/6818209777?i=6818209992&l=en-US",
-        "jacketFrom": "#8b5cf6",
-        "jacketTo": "#ec4899"
-      },
-      {
-        "rank": 6,
+        "rank": 4,
         "title": "Janice STFU",
         "artist": "Drake",
-        "comment": "UK Hip Hop/R&B 9位。Drakeの新曲群と聴き比べたい。",
+        "comment": "UK Hip Hop/R&B 9位→7位。Drakeの継続枠。",
         "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/janice-stfu/6769568449?i=6769568596&l=en-US",
         "jacketFrom": "#f97316",
         "jacketTo": "#ec4899"
       },
       {
-        "rank": 7,
-        "title": "JFK",
-        "artist": "G-Eazy & Ty Dolla $ign",
-        "comment": "9/25発売。Ty Dolla $ignとの共演を継続チェック。",
+        "rank": 5,
+        "title": "Cinderella (feat. Ty Dolla $ign)",
+        "artist": "Mac Miller",
+        "comment": "UK Hip Hop/R&B 12位→9位。メロウな展開の候補。",
         "status": "SELECT",
-        "appleMusicUrl": "https://music.apple.com/jp/album/jfk/6813162294?i=6813162296&l=en-US",
-        "jacketFrom": "#f59e0b",
+        "appleMusicUrl": "https://music.apple.com/jp/album/cinderella-feat-ty-dolla-%24ign/1137965822?i=1137966332&l=en-US",
+        "jacketFrom": "#ec4899",
+        "jacketTo": "#8b5cf6"
+      },
+      {
+        "rank": 6,
+        "title": "Solar Eclipse",
+        "artist": "Drake & Don Toliver",
+        "comment": "UK Hip Hop/R&B 11位。先週の新登場から継続推薦。",
+        "status": "SELECT",
+        "appleMusicUrl": "https://music.apple.com/jp/album/solar-eclipse/6818209777?i=6818209989&l=en-US",
+        "jacketFrom": "#3b82f6",
+        "jacketTo": "#8b5cf6"
+      },
+      {
+        "rank": 7,
+        "title": "Victory Lap",
+        "artist": "Fred again.., Skepta & PlaqueBoyMax",
+        "comment": "UK Hip Hop/R&B 24位→19位。クラブ寄りの展開へ。",
+        "status": "急上昇",
+        "appleMusicUrl": "https://music.apple.com/jp/album/victory-lap/1820265796?i=1820265798&l=en-US",
+        "jacketFrom": "#8b5cf6",
         "jacketTo": "#3b82f6"
       },
       {
         "rank": 8,
         "title": "Hate It Or Love It (feat. 50 Cent)",
         "artist": "The Game",
-        "comment": "UK Hip Hop/R&B 18位→14位。定番の上昇を継続追跡。",
-        "status": "急上昇",
-        "appleMusicUrl": "https://music.apple.com/jp/album/hate-it-or-love-it-feat-50-cent/1440799117?i=1440799195&l=en-US",
+        "comment": "UK Hip Hop/R&B 15位。2000年代の定番を挟む枠。",
+        "status": "SELECT",
+        "appleMusicUrl": "https://music.apple.com/jp/album/hate-it-or-love-it-feat-50-cent/1445314574?i=1445314576&l=en-US",
         "jacketFrom": "#f97316",
         "jacketTo": "#06b6d4"
       },
       {
         "rank": 9,
-        "title": "Victory Lap",
-        "artist": "Fred again.., Skepta & PlaqueBoyMax",
-        "comment": "UK Hip Hop/R&B 24位。クラブサウンドとの接点に。",
+        "title": "Quebec",
+        "artist": "Drake",
+        "comment": "UK Hip Hop/R&B 23位。Drakeの10月曲を追跡。",
         "status": "SELECT",
-        "appleMusicUrl": "https://music.apple.com/jp/album/victory-lap/1820265796?i=1820265798&l=en-US",
-        "jacketFrom": "#8b5cf6",
-        "jacketTo": "#3b82f6"
+        "appleMusicUrl": "https://music.apple.com/jp/album/quebec/6818209777?i=6818209990&l=en-US",
+        "jacketFrom": "#ec4899",
+        "jacketTo": "#f97316"
       },
       {
         "rank": 10,
-        "title": "Cinderella (feat. Ty Dolla $ign)",
-        "artist": "Mac Miller",
-        "comment": "UK Hip Hop/R&B 12位。メロウに寄せる場面の候補。",
+        "title": "Cold Shoulder",
+        "artist": "Drake, Don Toliver & Yebba",
+        "comment": "UK Hip Hop/R&B 25位。Don ToliverとYebba参加。",
         "status": "SELECT",
-        "appleMusicUrl": "https://music.apple.com/jp/album/cinderella-feat-ty-dolla-%24ign/1137965822?i=1137966332&l=en-US",
-        "jacketFrom": "#ec4899",
-        "jacketTo": "#8b5cf6"
+        "appleMusicUrl": "https://music.apple.com/jp/album/cold-shoulder/6818059268?i=6818059600&l=en-US",
+        "jacketFrom": "#06b6d4",
+        "jacketTo": "#3b82f6"
       }
     ],
     "rnb": [
       {
         "rank": 1,
-        "title": "Material Lover (from The Devil Wears Prada 2 Original Motion Picture)",
+        "title": "Material Lover",
         "artist": "SIENNA SPIRO",
-        "comment": "UK Hip Hop/R&B 2位。現行の歌もの枠として継続。",
-        "status": "SELECT",
-        "appleMusicUrl": "https://music.apple.com/jp/album/material-lover-from-the-devil-wears-prada-2-original/6769552402?i=6769552706&l=en-US",
-        "jacketFrom": "#3b82f6",
-        "jacketTo": "#8b5cf6"
-      },
-      {
-        "rank": 2,
-        "title": "Cold Shoulder",
-        "artist": "Drake, Don Toliver & Yebba",
-        "comment": "Don ToliverとYebba参加。HIP HOPとR&Bをまたぐ新規枠。",
-        "status": "NEW",
-        "appleMusicUrl": "https://music.apple.com/jp/album/cold-shoulder/6818209777?i=6818209992&l=en-US",
+        "comment": "UK Hip Hop/R&B 2位→1位。今週の首位交代。",
+        "status": "急上昇",
+        "appleMusicUrl": "https://music.apple.com/jp/album/material-lover/1895776688?i=6764429256&l=en-US",
         "jacketFrom": "#ec4899",
         "jacketTo": "#f97316"
       },
       {
+        "rank": 2,
+        "title": "No Scrubs",
+        "artist": "TLC",
+        "comment": "UK Hip Hop/R&B 7位→3位。90sの定番が上昇。",
+        "status": "急上昇",
+        "appleMusicUrl": "https://music.apple.com/jp/album/no-scrubs/298575243?i=298575248&l=en-US",
+        "jacketFrom": "#8b5cf6",
+        "jacketTo": "#ec4899"
+      },
+      {
         "rank": 3,
-        "title": "Sure Thing",
-        "artist": "Miguel",
-        "comment": "UK Hip Hop/R&B 5位。親しみのあるR&Bの軸に。",
-        "status": "SELECT",
-        "appleMusicUrl": "https://music.apple.com/jp/album/sure-thing/439618070?i=439618071&l=en-US",
-        "jacketFrom": "#06b6d4",
-        "jacketTo": "#3b82f6"
+        "title": "Valerie (feat. Amy Winehouse) [Version Revisited]",
+        "artist": "Mark Ronson",
+        "appleMusicUrl": "https://music.apple.com/jp/album/valerie-feat-amy-winehouse-version-revisited/270051041?i=270051061&l=en-US",
+        "status": "NEW",
+        "jacketFrom": "#3b82f6",
+        "jacketTo": "#ec4899",
+        "comment": "UK Hip Hop/R&B 19位→10位。リンクはVersion Revisited。"
       },
       {
         "rank": 4,
+        "title": "Thriller",
+        "artist": "Michael Jackson",
+        "comment": "UK Hip Hop/R&B 17位→12位。ハロウィーン前の候補。",
+        "status": "急上昇",
+        "appleMusicUrl": "https://music.apple.com/jp/album/thriller/269572838?i=269573303&l=en-US",
+        "jacketFrom": "#10b981",
+        "jacketTo": "#06b6d4"
+      },
+      {
+        "rank": 5,
         "title": "Purple Rain (7\" Single Edit) [2017 Remaster]",
         "artist": "Prince & The Revolution",
-        "comment": "UK Hip Hop/R&B 6位。リンクは7インチ編集版。",
+        "comment": "UK Hip Hop/R&B 4位。リンクは7インチ編集版。",
         "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/purple-rain-7-single-edit-2017-remaster/1229320468?i=1229320890&l=en-US",
         "jacketFrom": "#10b981",
         "jacketTo": "#06b6d4"
       },
       {
-        "rank": 5,
-        "title": "No Scrubs",
-        "artist": "TLC",
-        "comment": "UK Hip Hop/R&B 7位。90sの歌える定番。",
+        "rank": 6,
+        "title": "Sure Thing",
+        "artist": "Miguel",
+        "comment": "UK Hip Hop/R&B 5位を維持。R&Bの定番枠。",
         "status": "SELECT",
-        "appleMusicUrl": "https://music.apple.com/jp/album/no-scrubs/309066782?i=309066884&l=en-US",
-        "jacketFrom": "#8b5cf6",
-        "jacketTo": "#ec4899"
+        "appleMusicUrl": "https://music.apple.com/jp/album/sure-thing/439618070?i=439618071&l=en-US",
+        "jacketFrom": "#06b6d4",
+        "jacketTo": "#3b82f6"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "title": "oh yeah?",
         "artist": "Steve Lacy",
-        "comment": "UK Hip Hop/R&B 13位。現行R&Bのアクセントに。",
+        "comment": "UK Hip Hop/R&B 13位。Steve Lacyの現行曲を継続。",
         "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/oh-yeah/6773775032?i=6773775282&l=en-US",
         "jacketFrom": "#f97316",
         "jacketTo": "#ec4899"
       },
       {
-        "rank": 7,
-        "title": "Thriller",
-        "artist": "Michael Jackson",
-        "comment": "UK Hip Hop/R&B 41位→17位。10月後半の選曲候補。",
-        "status": "急上昇",
-        "appleMusicUrl": "https://music.apple.com/jp/album/thriller/269572838?i=269573303&l=en-US",
-        "jacketFrom": "#f59e0b",
-        "jacketTo": "#3b82f6"
-      },
-      {
         "rank": 8,
         "title": "Man I Need",
         "artist": "Olivia Dean",
-        "comment": "UK Singles 17位→14位。ソウル感のある歌もの枠。",
+        "comment": "UK総合14位→12位。Olivia Deanの歌を聴かせる枠。",
         "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/man-i-need/1817609404?i=1817609509&l=en-US",
         "jacketFrom": "#f97316",
@@ -290,111 +290,111 @@
       },
       {
         "rank": 9,
-        "title": "So Easy (To Fall In Love)",
-        "artist": "Olivia Dean",
-        "comment": "UK Singles 55位。Olivia Deanの流れで聴かせる推薦。",
+        "title": "Watch You Dance",
+        "artist": "Leon Bridges",
+        "comment": "Leon Bridgesの9月曲。ソウル枠として継続推薦。",
         "status": "SELECT",
-        "appleMusicUrl": "https://music.apple.com/jp/album/so-easy-to-fall-in-love/1817609404?i=1817609507&l=en-US",
-        "jacketFrom": "#8b5cf6",
+        "appleMusicUrl": "https://music.apple.com/jp/album/watch-you-dance/6789289866?i=6789290147&l=en-US",
+        "jacketFrom": "#06b6d4",
         "jacketTo": "#3b82f6"
       },
       {
         "rank": 10,
-        "title": "Watch You Dance",
-        "artist": "Leon Bridges",
-        "comment": "9/22発売。新しいソウルを聴かせる継続推薦。",
-        "status": "SELECT",
-        "appleMusicUrl": "https://music.apple.com/jp/album/watch-you-dance/6789289866?i=6789290147&l=en-US",
-        "jacketFrom": "#ec4899",
-        "jacketTo": "#8b5cf6"
+        "title": "Shotta's.",
+        "artist": "Season 25",
+        "appleMusicUrl": "https://music.apple.com/jp/album/shottas/6815156539?i=6815156545&l=en-US",
+        "status": "NEW",
+        "jacketFrom": "#3b82f6",
+        "jacketTo": "#ec4899",
+        "comment": "Season 25のチャート新登場曲。R&B側でもチェック。"
       }
     ],
     "house": [
       {
         "rank": 1,
-        "title": "Red Button",
-        "artist": "GENESI, Djammin & Flowdan",
-        "comment": "10/9発売。Flowdan参加の新作を今週の先頭に。",
+        "title": "World Hold On (feat. Steve Edwards) [FISHER Rework]",
+        "artist": "Bob Sinclar",
+        "appleMusicUrl": "https://music.apple.com/jp/album/world-hold-on-feat-steve-edwards-fisher-rework/1727359614?i=1727359615&l=en-US",
         "status": "NEW",
-        "appleMusicUrl": "https://music.apple.com/jp/album/red-button/6818141188?i=6818141201&l=en-US",
         "jacketFrom": "#3b82f6",
-        "jacketTo": "#8b5cf6"
+        "jacketTo": "#ec4899",
+        "comment": "UK Dance 29位→24位。FISHER Reworkを今週追加。"
       },
       {
         "rank": 2,
-        "title": "DANGER DANGER",
-        "artist": "Dom Dolla, Solomun & Skepta",
-        "comment": "Skeptaのラップと四つ打ちを組み合わせる継続推薦。",
+        "title": "Red Button",
+        "artist": "GENESI, Djammin & Flowdan",
+        "comment": "Flowdan参加の10月曲。ラップを含む流れの候補。",
         "status": "SELECT",
-        "appleMusicUrl": "https://music.apple.com/jp/album/danger-danger/6812546255?i=6812546587&l=en-US",
-        "jacketFrom": "#ec4899",
-        "jacketTo": "#f97316"
+        "appleMusicUrl": "https://music.apple.com/jp/album/red-button/6818141188?i=6818141201&l=en-US",
+        "jacketFrom": "#8b5cf6",
+        "jacketTo": "#ec4899"
       },
       {
         "rank": 3,
-        "title": "Never Leave U",
-        "artist": "Sonny Kane",
-        "comment": "UK Dance 30位→18位。HOUSEでもチェックしたい上昇曲。",
-        "status": "急上昇",
-        "appleMusicUrl": "https://music.apple.com/jp/album/never-leave-u/6783303215?i=6783303219&l=en-US",
-        "jacketFrom": "#06b6d4",
-        "jacketTo": "#3b82f6"
+        "title": "DANGER DANGER",
+        "artist": "Dom Dolla, Solomun & Skepta",
+        "comment": "Dom Dolla、Solomun、Skeptaの共演を継続推薦。",
+        "status": "SELECT",
+        "appleMusicUrl": "https://music.apple.com/jp/album/danger-danger/6812546255?i=6812546587&l=en-US",
+        "jacketFrom": "#f97316",
+        "jacketTo": "#ec4899"
       },
       {
         "rank": 4,
-        "title": "Shinjuku (Extended Mix)",
-        "artist": "Franky Rizardo",
-        "comment": "UK Dance 38位→30位。リンクはExtended Mix。",
-        "status": "急上昇",
-        "appleMusicUrl": "https://music.apple.com/jp/album/shinjuku-extended-mix/6821836953?i=6821836955&l=en-US",
-        "jacketFrom": "#10b981",
-        "jacketTo": "#06b6d4"
-      },
-      {
-        "rank": 5,
         "title": "Free Your Mind",
         "artist": "Prospa, Cloonee & Sybil",
-        "comment": "UK Dance 2位。Dance側と共通で使う選曲の軸。",
+        "comment": "UK Dance 2位。ボーカルHOUSEの共通軸。",
         "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/free-your-mind/1884097801?i=1884097804&l=en-US",
         "jacketFrom": "#8b5cf6",
         "jacketTo": "#ec4899"
       },
       {
+        "rank": 5,
+        "title": "Good Girl",
+        "artist": "Cloonee, Prospa & Tristan Henry",
+        "comment": "UK Dance 4位。Cloonee／Prospaの流れを作る候補。",
+        "status": "SELECT",
+        "appleMusicUrl": "https://music.apple.com/jp/album/good-girl/6785909845?i=6785909848&l=en-US",
+        "jacketFrom": "#f97316",
+        "jacketTo": "#06b6d4"
+      },
+      {
         "rank": 6,
+        "title": "Never Leave U",
+        "artist": "Sonny Kane",
+        "comment": "UK Dance 22位。今週も掘り下げる継続枠。",
+        "status": "SELECT",
+        "appleMusicUrl": "https://music.apple.com/jp/album/never-leave-u/6783303215?i=6783303219&l=en-US",
+        "jacketFrom": "#ec4899",
+        "jacketTo": "#8b5cf6"
+      },
+      {
+        "rank": 7,
+        "title": "Shinjuku",
+        "artist": "Franky Rizardo",
+        "comment": "UK Dance 34位。今週は通常配信版のShinjukuを採用。",
+        "status": "SELECT",
+        "appleMusicUrl": "https://music.apple.com/jp/album/shinjuku/1879853261?i=1879853262&l=en-US",
+        "jacketFrom": "#3b82f6",
+        "jacketTo": "#8b5cf6"
+      },
+      {
+        "rank": 8,
         "title": "Miami Vice",
         "artist": "DJ PP, Mark Knight & James Hurr",
-        "comment": "DJ PP、Mark Knight、James Hurrの共演。中盤の候補に。",
+        "comment": "DJ PP、Mark Knight、James Hurr。中盤の継続候補。",
         "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/miami-vice/6808310197?i=6808310198&l=en-US",
         "jacketFrom": "#f97316",
         "jacketTo": "#ec4899"
       },
       {
-        "rank": 7,
-        "title": "Ooo la La",
-        "artist": "RSquared",
-        "comment": "RSquaredの9月曲。HOUSEの流れを保つ継続枠。",
-        "status": "SELECT",
-        "appleMusicUrl": "https://music.apple.com/jp/album/ooo-la-la/6807760593?i=6807760594&l=en-US",
-        "jacketFrom": "#f59e0b",
-        "jacketTo": "#3b82f6"
-      },
-      {
-        "rank": 8,
-        "title": "1,2,3",
-        "artist": "James Hype & Volkoder",
-        "comment": "James HypeとVolkoderの共演。通常配信版を採用。",
-        "status": "SELECT",
-        "appleMusicUrl": "https://music.apple.com/jp/album/1-2-3/6802449183?i=6802449184&l=en-US",
-        "jacketFrom": "#f97316",
-        "jacketTo": "#06b6d4"
-      },
-      {
         "rank": 9,
         "title": "Movimiento",
-        "artist": "Cloonee, Yandel & ATLAC",
-        "comment": "Yandel参加。Latin色を足す場面の推薦曲。",
+        "artist": "Cloonee, ATLAC & Yandel",
+        "comment": "Yandel参加。Latin色を加える選曲枠。",
         "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/movimiento/6796002394?i=6796002735&l=en-US",
         "jacketFrom": "#8b5cf6",
@@ -404,7 +404,7 @@
         "rank": 10,
         "title": "MYSTERY OF RAW",
         "artist": "Michael Bibi, KETTAMA & Wu-Tang Clan",
-        "comment": "Wu-Tang Clan参加。ラップ中心の流れとの接点に。",
+        "comment": "Wu-Tang Clan参加。HIP HOPとHOUSEの接点に。",
         "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/mystery-of-raw/6797938184?i=6797938186&l=en-US",
         "jacketFrom": "#ec4899",
@@ -416,37 +416,37 @@
         "rank": 1,
         "title": "Man Fi Be Man",
         "artist": "Shaneil Muir",
-        "comment": "Jamaica Dancehall 2位→1位。今週の首位交代。",
-        "status": "急上昇",
-        "appleMusicUrl": "https://music.apple.com/jp/album/man-fi-be-man/6791193141?i=6791193274&l=en-US",
-        "jacketFrom": "#3b82f6",
-        "jacketTo": "#8b5cf6"
+        "comment": "Jamaica Dancehall 1位を維持。2週連続首位。",
+        "status": "SELECT",
+        "appleMusicUrl": "https://music.apple.com/jp/album/man-fi-be-man/6791193141?i=6791193143&l=en-US",
+        "jacketFrom": "#f59e0b",
+        "jacketTo": "#3b82f6"
       },
       {
         "rank": 2,
         "title": "16",
         "artist": "SQUASH & Masicka",
-        "comment": "Jamaica Dancehall 3位→2位。上位の流れでチェック。",
+        "comment": "Jamaica Dancehall 2位を維持。SQUASHとMasickaの共演。",
         "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/16/6792045014?i=6792045274&l=en-US",
-        "jacketFrom": "#ec4899",
-        "jacketTo": "#f97316"
+        "jacketFrom": "#f97316",
+        "jacketTo": "#06b6d4"
       },
       {
         "rank": 3,
-        "title": "Like How Yuh Feel",
-        "artist": "Aidonia",
-        "comment": "Jamaica Dancehall 4位→3位。今週も上昇。",
-        "status": "SELECT",
-        "appleMusicUrl": "https://music.apple.com/jp/album/like-how-yuh-feel/6771851095?i=6771851096&l=en-US",
-        "jacketFrom": "#06b6d4",
-        "jacketTo": "#3b82f6"
+        "title": "Honor Roll",
+        "artist": "Masicka & Kraff Gad",
+        "comment": "Jamaica Dancehall 6位→3位。今週の注目上昇曲。",
+        "status": "急上昇",
+        "appleMusicUrl": "https://music.apple.com/jp/album/honor-roll/6801312744?i=6801313278&l=en-US",
+        "jacketFrom": "#f97316",
+        "jacketTo": "#ec4899"
       },
       {
         "rank": 4,
         "title": "Red Light Pepper Light",
         "artist": "Future Fambo",
-        "comment": "Jamaica Dancehall 5位→4位。トップ5を維持。",
+        "comment": "Jamaica Dancehall 4位を維持。Future Famboの継続枠。",
         "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/red-light-pepper-light/6795712795?i=6795712802&l=en-US",
         "jacketFrom": "#10b981",
@@ -454,63 +454,63 @@
       },
       {
         "rank": 5,
-        "title": "Van Cleef",
-        "artist": "Malie Donn",
-        "comment": "Jamaica Dancehall 5位。3週首位から交代しても継続。",
+        "title": "Like How Yuh Feel",
+        "artist": "Aidonia",
+        "comment": "Jamaica Dancehall 5位。Aidoniaを継続チェック。",
         "status": "SELECT",
-        "appleMusicUrl": "https://music.apple.com/jp/album/van-cleef/6775592947?i=6775592948&l=en-US",
-        "jacketFrom": "#8b5cf6",
-        "jacketTo": "#ec4899"
+        "appleMusicUrl": "https://music.apple.com/jp/album/like-how-yuh-feel/6771851095?i=6771851096&l=en-US",
+        "jacketFrom": "#06b6d4",
+        "jacketTo": "#3b82f6"
       },
       {
         "rank": 6,
-        "title": "Honor Roll",
-        "artist": "Masicka & Kraff Gad",
-        "comment": "Jamaica Dancehall 7位→6位。Masickaの流れで。",
-        "status": "SELECT",
-        "appleMusicUrl": "https://music.apple.com/jp/album/honor-roll/6801300179?i=6801300192&l=en-US",
-        "jacketFrom": "#f97316",
-        "jacketTo": "#ec4899"
-      },
-      {
-        "rank": 7,
         "title": "Magnificent",
         "artist": "Sean Paul, Supa Hype & Ram Jam",
-        "comment": "Jamaica Dancehall 9位→7位。Sean Paulの歌を軸に。",
+        "comment": "Jamaica Dancehall 7位→6位。Sean Paulの選曲枠。",
         "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/magnificent/1894922272?i=1894922278&l=en-US",
         "jacketFrom": "#f59e0b",
         "jacketTo": "#3b82f6"
       },
       {
-        "rank": 8,
-        "title": "SHINE",
-        "artist": "Dexta Daps",
-        "comment": "Jamaica Dancehall 8位。Dexta Daps枠を継続。",
+        "rank": 7,
+        "title": "Van Cleef",
+        "artist": "Malie Donn",
+        "comment": "Jamaica Dancehall 7位。Malie Donnの継続曲。",
         "status": "SELECT",
-        "appleMusicUrl": "https://music.apple.com/jp/album/shine/6770755293?i=6770755294&l=en-US",
-        "jacketFrom": "#f97316",
-        "jacketTo": "#06b6d4"
+        "appleMusicUrl": "https://music.apple.com/jp/album/van-cleef/6775592947?i=6775592948&l=en-US",
+        "jacketFrom": "#8b5cf6",
+        "jacketTo": "#ec4899"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "title": "How Often",
         "artist": "Feloni19 & Cash Code",
-        "comment": "Jamaica Dancehall 11位→9位。トップ10入りで新規採用。",
-        "status": "NEW",
+        "comment": "Jamaica Dancehall 9位→8位。トップ10内で上昇。",
+        "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/how-often/1883150576?i=1883150586&l=en-US",
         "jacketFrom": "#8b5cf6",
         "jacketTo": "#3b82f6"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "title": "No Days Off",
         "artist": "Jamarii, 450 & Weekday",
-        "comment": "Jamaica Dancehall 12位→10位。今週の追加チェック曲。",
-        "status": "NEW",
+        "comment": "Jamaica Dancehall 10位→9位。先週の追加曲を継続。",
+        "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/no-days-off/6788142357?i=6788142358&l=en-US",
-        "jacketFrom": "#ec4899",
-        "jacketTo": "#8b5cf6"
+        "jacketFrom": "#8b5cf6",
+        "jacketTo": "#3b82f6"
+      },
+      {
+        "rank": 10,
+        "title": "Back 2 Basics",
+        "artist": "Malie Donn",
+        "appleMusicUrl": "https://music.apple.com/jp/album/back-2-basics/6785599887?i=6785599888&l=en-US",
+        "status": "NEW",
+        "jacketFrom": "#3b82f6",
+        "jacketTo": "#ec4899",
+        "comment": "Jamaica Dancehall 13位→10位。配信表記はBack 2 Basics。"
       }
     ],
     "pop": [
@@ -518,57 +518,57 @@
         "rank": 1,
         "title": "Patient Zero",
         "artist": "Taylor Swift",
-        "comment": "UK Singles 2週連続1位。今週もPOPの軸。",
+        "comment": "UK総合1位を維持。今週のPOP先頭曲。",
         "status": "SELECT",
-        "appleMusicUrl": "https://music.apple.com/jp/album/patient-zero/6821937445?i=6821937449&l=en-US",
+        "appleMusicUrl": "https://music.apple.com/jp/album/patient-zero/6814997249?i=6814997425&l=en-US",
         "jacketFrom": "#3b82f6",
         "jacketTo": "#8b5cf6"
       },
       {
         "rank": 2,
+        "title": "Babydoll",
+        "artist": "Jamie Miller",
+        "comment": "UK総合3位→2位。Jamie Millerの上昇が続く。",
+        "status": "急上昇",
+        "appleMusicUrl": "https://music.apple.com/jp/album/babydoll/6794168372?i=6794168373&l=en-US",
+        "jacketFrom": "#8b5cf6",
+        "jacketTo": "#ec4899"
+      },
+      {
+        "rank": 3,
+        "title": "Stop The Wedding!",
+        "artist": "Ashe",
+        "comment": "UK総合4位→3位。今週も順位を上げた歌もの。",
+        "status": "急上昇",
+        "appleMusicUrl": "https://music.apple.com/jp/album/stop-the-wedding/6795697684?i=6795697687&l=en-US",
+        "jacketFrom": "#f97316",
+        "jacketTo": "#ec4899"
+      },
+      {
+        "rank": 4,
         "title": "Great Expectation",
         "artist": "SIENNA SPIRO",
-        "comment": "UK Singles 2位を維持。歌を聴かせる候補。",
+        "comment": "UK総合4位。SIENNA SPIROのPOP枠。",
         "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/great-expectation/6769552402?i=6769552411&l=en-US",
         "jacketFrom": "#ec4899",
         "jacketTo": "#f97316"
       },
       {
-        "rank": 3,
-        "title": "Babydoll",
-        "artist": "Jamie Miller",
-        "comment": "UK Singles 6位→3位。今週の上昇曲。",
-        "status": "急上昇",
-        "appleMusicUrl": "https://music.apple.com/jp/album/babydoll/6794168372?i=6794168373&l=en-US",
-        "jacketFrom": "#06b6d4",
-        "jacketTo": "#3b82f6"
-      },
-      {
-        "rank": 4,
-        "title": "Stop The Wedding!",
-        "artist": "Ashe",
-        "comment": "UK Singles 10位→4位。大きく伸びた注目曲。",
-        "status": "急上昇",
-        "appleMusicUrl": "https://music.apple.com/jp/album/stop-the-wedding/6795697684?i=6795697687&l=en-US",
-        "jacketFrom": "#10b981",
-        "jacketTo": "#06b6d4"
-      },
-      {
         "rank": 5,
-        "title": "Choosin' Texas",
-        "artist": "Ella Langley",
-        "comment": "UK Singles 5位を維持。ロングラン曲を継続。",
-        "status": "SELECT",
-        "appleMusicUrl": "https://music.apple.com/jp/album/choosin-texas/1844932149?i=1844932150&l=en-US",
-        "jacketFrom": "#8b5cf6",
-        "jacketTo": "#ec4899"
+        "title": "Nicole Kidman",
+        "artist": "ADÉLA",
+        "comment": "UK総合8位→5位。今週のトップ5入り。",
+        "status": "急上昇",
+        "appleMusicUrl": "https://music.apple.com/jp/album/nicole-kidman/6792883860?i=6792884088&l=en-US",
+        "jacketFrom": "#f97316",
+        "jacketTo": "#06b6d4"
       },
       {
         "rank": 6,
         "title": "Boston",
         "artist": "STELLA LEFTY",
-        "comment": "UK Singles 7位→6位。リンクはSTELLA LEFTYの原曲。",
+        "comment": "UK総合6位を維持。STELLA LEFTYを継続。",
         "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/boston/1884403092?i=1884403093&l=en-US",
         "jacketFrom": "#f97316",
@@ -576,40 +576,40 @@
       },
       {
         "rank": 7,
+        "title": "Choosin' Texas",
+        "artist": "Ella Langley",
+        "comment": "UK総合7位。カントリー色を加える枠。",
+        "status": "SELECT",
+        "appleMusicUrl": "https://music.apple.com/jp/album/choosin-texas/1844932149?i=1844932150&l=en-US",
+        "jacketFrom": "#8b5cf6",
+        "jacketTo": "#ec4899"
+      },
+      {
+        "rank": 8,
         "title": "the cure",
         "artist": "Olivia Rodrigo",
-        "comment": "UK Singles 8位→7位。現行POP枠として。",
+        "comment": "UK総合8位。Olivia Rodrigoの継続推薦。",
         "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/the-cure/1889992111?i=1889992123&l=en-US",
         "jacketFrom": "#f59e0b",
         "jacketTo": "#3b82f6"
       },
       {
-        "rank": 8,
-        "title": "Nicole Kidman",
-        "artist": "ADÉLA",
-        "comment": "UK Singles 9位→8位。今週は順位を回復。",
-        "status": "SELECT",
-        "appleMusicUrl": "https://music.apple.com/jp/album/nicole-kidman/6792883860?i=6792884088&l=en-US",
-        "jacketFrom": "#f97316",
-        "jacketTo": "#06b6d4"
-      },
-      {
         "rank": 9,
-        "title": "Training Season",
-        "artist": "Dua Lipa",
-        "comment": "UK Singles 11位→9位。トップ10復帰で再採用。",
+        "title": "Rein Me In",
+        "artist": "Sam Fender & Olivia Dean",
+        "appleMusicUrl": "https://music.apple.com/jp/album/rein-me-in/1820918843?i=1820918844&l=en-US",
         "status": "NEW",
-        "appleMusicUrl": "https://music.apple.com/jp/album/training-season/1727526670?i=1727526894&l=en-US",
-        "jacketFrom": "#8b5cf6",
-        "jacketTo": "#3b82f6"
+        "jacketFrom": "#3b82f6",
+        "jacketTo": "#ec4899",
+        "comment": "UK総合11位→9位。Sam FenderとOlivia Deanの共演。"
       },
       {
         "rank": 10,
         "title": "My Body Isn't Ready",
         "artist": "sombr",
-        "comment": "UK Singles 13位→10位。トップ10復帰で再採用。",
-        "status": "NEW",
+        "comment": "UK総合10位を維持。sombrの歌もの枠。",
+        "status": "SELECT",
         "appleMusicUrl": "https://music.apple.com/jp/album/my-body-isnt-ready/6781074078?i=6781074080&l=en-US",
         "jacketFrom": "#ec4899",
         "jacketTo": "#8b5cf6"
@@ -619,161 +619,161 @@
   "djSelect20": [
     {
       "rank": 1,
-      "title": "Solar Eclipse",
-      "artist": "Drake & Don Toliver",
-      "comment": "UK Hip Hop/R&B初登場3位。今週の新曲チェックはここから。",
+      "title": "Fancy Footwork",
+      "artist": "Chromeo",
+      "appleMusicUrl": "https://music.apple.com/jp/album/fancy-footwork/1471576717?i=1471577047&l=en-US",
       "status": "NEW",
-      "appleMusicUrl": "https://music.apple.com/jp/album/solar-eclipse/6818209777?i=6818209989&l=en-US",
       "jacketFrom": "#3b82f6",
-      "jacketTo": "#8b5cf6"
+      "jacketTo": "#ec4899",
+      "comment": "UK Dance 21位→8位。2007年の曲を今週あらためて。"
     },
     {
       "rank": 2,
       "title": "COS OF YOU",
       "artist": "Morrisson",
-      "comment": "UK Hip Hop/R&B初登場10位。UKラップの追加枠。",
-      "status": "NEW",
+      "comment": "UK Hip Hop/R&B 10位→6位。今週のラップ筆頭候補。",
+      "status": "急上昇",
       "appleMusicUrl": "https://music.apple.com/jp/album/cos-of-you/6817308928?i=6817308933&l=en-US",
       "jacketFrom": "#ec4899",
       "jacketTo": "#f97316"
     },
     {
       "rank": 3,
-      "title": "Cold Shoulder",
-      "artist": "Drake, Don Toliver & Yebba",
-      "comment": "Drake、Don Toliver、Yebbaの共演。R&B側にも置きたい。",
+      "title": "Shotta's.",
+      "artist": "Season 25",
+      "appleMusicUrl": "https://music.apple.com/jp/album/shottas/6815156539?i=6815156545&l=en-US",
       "status": "NEW",
-      "appleMusicUrl": "https://music.apple.com/jp/album/cold-shoulder/6818209777?i=6818209992&l=en-US",
-      "jacketFrom": "#06b6d4",
-      "jacketTo": "#3b82f6"
+      "jacketFrom": "#3b82f6",
+      "jacketTo": "#ec4899",
+      "comment": "UK Hip Hop/R&B初登場8位。Season 25を新規採用。"
     },
     {
       "rank": 4,
-      "title": "Raindance",
-      "artist": "Dave & Tems",
-      "comment": "UK Hip Hop/R&B首位を維持。歌とラップをつなぐ軸。",
-      "status": "SELECT",
-      "appleMusicUrl": "https://music.apple.com/jp/album/raindance/1847992481?i=1847992612&l=en-US",
-      "jacketFrom": "#10b981",
-      "jacketTo": "#06b6d4"
+      "title": "Carnage (feat. Little Simz)",
+      "artist": "Chase & Status",
+      "appleMusicUrl": "https://music.apple.com/jp/album/carnage-feat-little-simz/6802692234?i=6802692241&l=en-US",
+      "status": "NEW",
+      "jacketFrom": "#3b82f6",
+      "jacketTo": "#ec4899",
+      "comment": "UK Dance初登場13位。Little Simz参加曲を追加。"
     },
     {
       "rank": 5,
-      "title": "Red Button",
-      "artist": "GENESI, Djammin & Flowdan",
-      "comment": "10/9発売。Flowdan参加のクラブ新作を追加。",
-      "status": "NEW",
-      "appleMusicUrl": "https://music.apple.com/jp/album/red-button/6818141188?i=6818141201&l=en-US",
-      "jacketFrom": "#8b5cf6",
-      "jacketTo": "#ec4899"
-    },
-    {
-      "rank": 6,
-      "title": "DANGER DANGER",
-      "artist": "Dom Dolla, Solomun & Skepta",
-      "comment": "ラップから四つ打ちへ展開する継続推薦。",
-      "status": "SELECT",
-      "appleMusicUrl": "https://music.apple.com/jp/album/danger-danger/6812546255?i=6812546587&l=en-US",
-      "jacketFrom": "#f97316",
-      "jacketTo": "#ec4899"
-    },
-    {
-      "rank": 7,
-      "title": "Hey Everybody",
-      "artist": "Kolter",
-      "comment": "UK Dance 9位→6位。総合でも49位→29位へ。",
-      "status": "急上昇",
-      "appleMusicUrl": "https://music.apple.com/jp/album/hey-everybody/6784787844?i=6784787846&l=en-US",
-      "jacketFrom": "#f59e0b",
-      "jacketTo": "#3b82f6"
-    },
-    {
-      "rank": 8,
-      "title": "Good Girl",
-      "artist": "Cloonee, Prospa & Tristan Henry",
-      "comment": "UK Dance 5位→4位。Cloonee／Prospaの流れで。",
-      "status": "急上昇",
-      "appleMusicUrl": "https://music.apple.com/jp/album/good-girl/6785909845?i=6785909848&l=en-US",
-      "jacketFrom": "#f97316",
-      "jacketTo": "#06b6d4"
-    },
-    {
-      "rank": 9,
-      "title": "Movin' To The Sun",
-      "artist": "HUGEL, Imael Angel & Ultra Naté",
-      "comment": "UK Dance首位を維持。歌を生かすダンス枠。",
-      "status": "SELECT",
-      "appleMusicUrl": "https://music.apple.com/jp/album/movin-to-the-sun/6769069923?i=6769070199&l=en-US",
-      "jacketFrom": "#8b5cf6",
-      "jacketTo": "#3b82f6"
-    },
-    {
-      "rank": 10,
-      "title": "Never Leave U",
-      "artist": "Sonny Kane",
-      "comment": "UK Dance 30位→18位。今週の掘り下げ候補。",
-      "status": "急上昇",
-      "appleMusicUrl": "https://music.apple.com/jp/album/never-leave-u/6783303215?i=6783303219&l=en-US",
-      "jacketFrom": "#ec4899",
-      "jacketTo": "#8b5cf6"
-    },
-    {
-      "rank": 11,
-      "title": "Shinjuku (Extended Mix)",
-      "artist": "Franky Rizardo",
-      "comment": "UK Dance 38位→30位。Extended Mixを採用。",
-      "status": "急上昇",
-      "appleMusicUrl": "https://music.apple.com/jp/album/shinjuku-extended-mix/6821836953?i=6821836955&l=en-US",
-      "jacketFrom": "#3b82f6",
-      "jacketTo": "#8b5cf6"
-    },
-    {
-      "rank": 12,
-      "title": "Material Lover (from The Devil Wears Prada 2 Original Motion Picture)",
+      "title": "Material Lover",
       "artist": "SIENNA SPIRO",
-      "comment": "UK Hip Hop/R&B 2位。歌中心の時間に。",
-      "status": "SELECT",
-      "appleMusicUrl": "https://music.apple.com/jp/album/material-lover-from-the-devil-wears-prada-2-original/6769552402?i=6769552706&l=en-US",
+      "comment": "UK Hip Hop/R&B 2位→1位。今週の首位交代。",
+      "status": "急上昇",
+      "appleMusicUrl": "https://music.apple.com/jp/album/material-lover/1895776688?i=6764429256&l=en-US",
       "jacketFrom": "#ec4899",
       "jacketTo": "#f97316"
     },
     {
-      "rank": 13,
-      "title": "Watch You Dance",
-      "artist": "Leon Bridges",
-      "comment": "Leon Bridgesの9月曲。現行ソウルを聴かせる枠。",
-      "status": "SELECT",
-      "appleMusicUrl": "https://music.apple.com/jp/album/watch-you-dance/6789289866?i=6789290147&l=en-US",
-      "jacketFrom": "#06b6d4",
-      "jacketTo": "#3b82f6"
+      "rank": 6,
+      "title": "Valerie (feat. Amy Winehouse) [Version Revisited]",
+      "artist": "Mark Ronson",
+      "appleMusicUrl": "https://music.apple.com/jp/album/valerie-feat-amy-winehouse-version-revisited/270051041?i=270051061&l=en-US",
+      "status": "NEW",
+      "jacketFrom": "#3b82f6",
+      "jacketTo": "#ec4899",
+      "comment": "UK Hip Hop/R&B 19位→10位。リンクはVersion Revisited。"
     },
     {
-      "rank": 14,
+      "rank": 7,
       "title": "Thriller",
       "artist": "Michael Jackson",
-      "comment": "UK Hip Hop/R&B 41位→17位。季節の定番を再確認。",
+      "comment": "UK Hip Hop/R&B 17位→12位。ハロウィーン前の候補。",
       "status": "急上昇",
       "appleMusicUrl": "https://music.apple.com/jp/album/thriller/269572838?i=269573303&l=en-US",
       "jacketFrom": "#10b981",
       "jacketTo": "#06b6d4"
     },
     {
-      "rank": 15,
+      "rank": 8,
+      "title": "World Hold On (feat. Steve Edwards) [FISHER Rework]",
+      "artist": "Bob Sinclar",
+      "appleMusicUrl": "https://music.apple.com/jp/album/world-hold-on-feat-steve-edwards-fisher-rework/1727359614?i=1727359615&l=en-US",
+      "status": "NEW",
+      "jacketFrom": "#3b82f6",
+      "jacketTo": "#ec4899",
+      "comment": "UK Dance 29位→24位。FISHER Reworkを今週追加。"
+    },
+    {
+      "rank": 9,
+      "title": "Red Button",
+      "artist": "GENESI, Djammin & Flowdan",
+      "comment": "Flowdan参加の10月曲。ラップを含む流れの候補。",
+      "status": "SELECT",
+      "appleMusicUrl": "https://music.apple.com/jp/album/red-button/6818141188?i=6818141201&l=en-US",
+      "jacketFrom": "#8b5cf6",
+      "jacketTo": "#ec4899"
+    },
+    {
+      "rank": 10,
+      "title": "Good Girl",
+      "artist": "Cloonee, Prospa & Tristan Henry",
+      "comment": "UK Dance 4位を維持。今週も中核の候補に。",
+      "status": "SELECT",
+      "appleMusicUrl": "https://music.apple.com/jp/album/good-girl/6785909845?i=6785909848&l=en-US",
+      "jacketFrom": "#f97316",
+      "jacketTo": "#06b6d4"
+    },
+    {
+      "rank": 11,
+      "title": "Hey Everybody",
+      "artist": "Kolter",
+      "comment": "UK Dance 6位を維持。先週から継続チェック。",
+      "status": "SELECT",
+      "appleMusicUrl": "https://music.apple.com/jp/album/hey-everybody/6784787844?i=6784787846&l=en-US",
+      "jacketFrom": "#f59e0b",
+      "jacketTo": "#3b82f6"
+    },
+    {
+      "rank": 12,
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "comment": "UK総合14位→12位。Olivia Deanの歌を聴かせる枠。",
+      "status": "SELECT",
+      "appleMusicUrl": "https://music.apple.com/jp/album/man-i-need/1817609404?i=1817609509&l=en-US",
+      "jacketFrom": "#f97316",
+      "jacketTo": "#06b6d4"
+    },
+    {
+      "rank": 13,
       "title": "Babydoll",
       "artist": "Jamie Miller",
-      "comment": "UK Singles 6位→3位。歌ものPOPの上昇曲。",
+      "comment": "UK総合3位→2位。Jamie Millerの上昇が続く。",
       "status": "急上昇",
       "appleMusicUrl": "https://music.apple.com/jp/album/babydoll/6794168372?i=6794168373&l=en-US",
       "jacketFrom": "#8b5cf6",
       "jacketTo": "#ec4899"
     },
     {
-      "rank": 16,
-      "title": "Stop The Wedding!",
-      "artist": "Ashe",
-      "comment": "UK Singles 10位→4位。今週の大きな動き。",
+      "rank": 14,
+      "title": "Nicole Kidman",
+      "artist": "ADÉLA",
+      "comment": "UK総合8位→5位。今週のトップ5入り。",
       "status": "急上昇",
-      "appleMusicUrl": "https://music.apple.com/jp/album/stop-the-wedding/6795697684?i=6795697687&l=en-US",
+      "appleMusicUrl": "https://music.apple.com/jp/album/nicole-kidman/6792883860?i=6792884088&l=en-US",
+      "jacketFrom": "#f97316",
+      "jacketTo": "#06b6d4"
+    },
+    {
+      "rank": 15,
+      "title": "Rein Me In",
+      "artist": "Sam Fender & Olivia Dean",
+      "appleMusicUrl": "https://music.apple.com/jp/album/rein-me-in/1820918843?i=1820918844&l=en-US",
+      "status": "NEW",
+      "jacketFrom": "#3b82f6",
+      "jacketTo": "#ec4899",
+      "comment": "UK総合11位→9位。Sam FenderとOlivia Deanの共演。"
+    },
+    {
+      "rank": 16,
+      "title": "Honor Roll",
+      "artist": "Masicka & Kraff Gad",
+      "comment": "Jamaica Dancehall 6位→3位。今週の注目上昇曲。",
+      "status": "急上昇",
+      "appleMusicUrl": "https://music.apple.com/jp/album/honor-roll/6801312744?i=6801313278&l=en-US",
       "jacketFrom": "#f97316",
       "jacketTo": "#ec4899"
     },
@@ -781,38 +781,38 @@
       "rank": 17,
       "title": "Man Fi Be Man",
       "artist": "Shaneil Muir",
-      "comment": "Jamaica Dancehall 2位→1位。今週の首位曲。",
-      "status": "急上昇",
-      "appleMusicUrl": "https://music.apple.com/jp/album/man-fi-be-man/6791193141?i=6791193274&l=en-US",
+      "comment": "Jamaica Dancehall 1位を維持。2週連続首位。",
+      "status": "SELECT",
+      "appleMusicUrl": "https://music.apple.com/jp/album/man-fi-be-man/6791193141?i=6791193143&l=en-US",
       "jacketFrom": "#f59e0b",
       "jacketTo": "#3b82f6"
     },
     {
       "rank": 18,
-      "title": "16",
-      "artist": "SQUASH & Masicka",
-      "comment": "Jamaica Dancehall 2位。SQUASHとMasickaの共演。",
-      "status": "SELECT",
-      "appleMusicUrl": "https://music.apple.com/jp/album/16/6792045014?i=6792045274&l=en-US",
-      "jacketFrom": "#f97316",
-      "jacketTo": "#06b6d4"
+      "title": "Back 2 Basics",
+      "artist": "Malie Donn",
+      "appleMusicUrl": "https://music.apple.com/jp/album/back-2-basics/6785599887?i=6785599888&l=en-US",
+      "status": "NEW",
+      "jacketFrom": "#3b82f6",
+      "jacketTo": "#ec4899",
+      "comment": "Jamaica Dancehall 13位→10位。配信表記はBack 2 Basics。"
     },
     {
       "rank": 19,
-      "title": "No Days Off",
-      "artist": "Jamarii, 450 & Weekday",
-      "comment": "Jamaica Dancehall 12位→10位。今週の追加枠。",
+      "title": "Shakazulu",
+      "artist": "Masicka",
+      "appleMusicUrl": "https://music.apple.com/jp/album/shakazulu/6801300179?i=6801300185&l=en-US",
       "status": "NEW",
-      "appleMusicUrl": "https://music.apple.com/jp/album/no-days-off/6788142357?i=6788142358&l=en-US",
-      "jacketFrom": "#8b5cf6",
-      "jacketTo": "#3b82f6"
+      "jacketFrom": "#3b82f6",
+      "jacketTo": "#ec4899",
+      "comment": "Jamaica Dancehall初登場23位。Masickaのアルバム曲を追加。"
     },
     {
       "rank": 20,
       "title": "Time Capsule",
       "artist": "Valiant",
-      "comment": "Jamaica Dancehall初登場22位。Valiantの新規採用曲。",
-      "status": "NEW",
+      "comment": "Jamaica Dancehall 22位→20位。Valiantを継続追跡。",
+      "status": "SELECT",
       "appleMusicUrl": "https://music.apple.com/jp/album/time-capsule/6810348497?i=6810348500&l=en-US",
       "jacketFrom": "#ec4899",
       "jacketTo": "#8b5cf6"
@@ -821,28 +821,28 @@
   "sources": [
     {
       "title": "Official Singles Chart",
-      "period": "2026-10-09/2026-10-15",
-      "url": "https://www.officialcharts.com/charts/singles-chart/20261009/7501/"
+      "period": "2026-10-16/2026-10-22",
+      "url": "https://www.officialcharts.com/charts/singles-chart/20261016/7501/"
     },
     {
       "title": "Official Dance Singles Chart",
-      "period": "2026-10-09/2026-10-15",
-      "url": "https://www.officialcharts.com/charts/dance-singles-chart/20261009/104/"
+      "period": "2026-10-16/2026-10-22",
+      "url": "https://www.officialcharts.com/charts/dance-singles-chart/20261016/104/"
     },
     {
       "title": "Official Hip Hop and R&B Singles Chart",
-      "period": "2026-10-09/2026-10-15",
-      "url": "https://www.officialcharts.com/charts/official-hip-hop-and-r-and-b-singles-chart/20261009/114/"
+      "period": "2026-10-16/2026-10-22",
+      "url": "https://www.officialcharts.com/charts/official-hip-hop-and-r-and-b-singles-chart/20261016/114/"
     },
     {
-      "title": "Jamaica's Dancehall Chart — Richie B / Reggae Vibes（転載）",
-      "period": "2026-10-09/2026-10-15",
-      "url": "https://info-jamaica.com/jamaicas-dancehall-chart-top-25-singles-oct-9-15-2026/"
+      "title": "Jamaica's Dancehall Chart — Richie B / Reggae Vibes",
+      "period": "2026-10-16/2026-10-22",
+      "url": "https://www.reggae-vibes.com/charts/2026/10/jamaicas-dancehall-chart-top-25-singles-oct-16-22-2026/"
     },
     {
       "title": "Apple Music JP Catalog",
-      "checkedAt": "2026-10-16",
-      "note": "全採用曲の曲名・アーティスト・配信版・URLをAPI照合。HOUSEは独自推薦であり、未確認のBeatport順位は掲載しない。"
+      "checkedAt": "2026-10-24",
+      "note": "全採用曲の曲名・アーティスト・配信版・URLをAPI照合。HOUSEは独自推薦。"
     }
   ]
 }
